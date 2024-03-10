@@ -16,6 +16,8 @@ This repo DOES NOT use its root as a project root. To be able to effectively
 keep many separate code challenges and mini-projects in the same repo, there
 will be multiple project roots.
 
-Assume any folder containing a `Main.java` is a project root. If that doesn't
-work, check package declarations. If that doesn't work, something is likely
-broken.
+Project Roots:
+- `starters`
+
+Beyond that, check package declarations to determine project roots.
+If that doesn't work, something is likely broken.
